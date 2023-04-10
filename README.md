@@ -1,5 +1,11 @@
 Live Link - https://shahkushal38.github.io/portfolio-website/
 
+To buid and deploy the project - 
+
+npm run build
+
+npm run deploy 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
