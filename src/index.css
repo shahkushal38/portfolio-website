@@ -20,7 +20,7 @@
     
     --transition: all 400ms ease;
 
-    --container-width-lg: 75%;
+    --container-width-lg: 80%;
     --container-width-md:86%;
     --container-width-ms:90%;
     
@@ -38,7 +38,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
     color: var(--color-white);
-    line-height: 1.7;
+    line-height: 1.5;
     background-image: url(../src/assets/bg-texture.png);
 }
 
@@ -57,12 +57,18 @@ h5{
 }
 
 h1{
+    font-size: 3.5rem;
+}
+h2{
     font-size: 2.5rem;
+}
+h5{
+    font-size: 0.95rem;
 }
 
 section{
     margin-top: 8rem;
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 section > h2, section > h5{

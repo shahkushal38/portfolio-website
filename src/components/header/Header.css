@@ -85,6 +85,9 @@ header {
    header{
     height: 100vh;
    }
+   .me img{
+    margin-left: -0.45rem;
+   }
 
    .header__socials,
    .scroll__down{
