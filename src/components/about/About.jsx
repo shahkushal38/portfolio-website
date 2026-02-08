@@ -39,9 +39,21 @@ const About = () => {
           </div>
 
           <p>
-          I have a B.Tech in Information Technology Engineering from Sardar Patel Institute of Technology along with a minor degree in Management from S.P. Jain Institute of Management and Research, Mumbai. I have always been passionate about the field of computer science. Over the past 2 years, I have gained professional hands-on experience in the IT industry through internships in software development, learning new technologies and building software projects resulting in gaining valuable insights into the practical application of my academic knowledge. I have also participated and won various Hackathons. <br></br><br />
+          I am a Software Development Engineer with over two years of experience building scalable, 
+          production-grade full-stack systems. Currently working at MSCI as an Associate in the Index Engineering team, 
+          I contribute to applications that support more than 80,000 global indexes. My work spans frontend and backend 
+          development, including building reusable React and Redux component libraries, 
+          designing REST APIs and developing ETL pipelines using Python Flask. <br/><br/>
+  
+          I hold a B.Tech (Bachelors of Technology) in Information Technology Engineering from Sardar Patel Institute of Technology 
+          along with a minor degree in Management from S.P. Jain Institute of Management and Research, Mumbai. 
+          Over the past 3 years, I have gained strong experience working in Agile environments, maintaining high 
+          code quality through test-driven development, and delivering reliable features through frequent production 
+          deployments. I enjoy taking ownership of complex problems, optimizing performance, 
+          and collaborating closely with cross-functional teams. <br/><br/>
           
-          I have honed my skills in programming languages such as Core Java, Python, JavaScript and Solidity and have worked on a range of technologies and frameworks such as Node.js, Express.js, Vue.js, React.js, Django, Flask and databases in MongoDB (Non-Relational) and MySQL (Relational). 
+          With a solid foundation in computer science fundamentals and a continuous drive to learn new technologies, 
+          I am motivated to build impactful software solutions and grow as a well-rounded software engineer.
           </p>
 
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>
