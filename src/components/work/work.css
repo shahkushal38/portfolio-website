@@ -30,6 +30,48 @@
     text-align: left;
     width: 90%;
     margin: 0.8rem auto 0;
+    /* put bullet space on the list container so wrapped lines align with text */
+    padding-left: 1.5rem;
+    list-style-position: outside;
+}
+
+.client_review li {
+    margin: 0.5rem 0;
+    line-height: 1.6;
+    list-style-type: disc;
+    /* no extra padding or negative indent on the item itself
+       so wrapped lines follow the start of the text */
+    padding-left: 0;
+    text-indent: 0;
+}
+
+.client_review li strong {
+    font-weight: 600;
+    color: var(--color-primary);
+}
+
+.job_title {
+    color: var(--color-primary);
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin: 0.5rem auto 0.3rem;
+}
+
+.job_duration {
+    color: var(--color-primary-variant);
+    font-size: 0.85rem;
+    font-weight: 500;
+    margin: 0 auto 0.8rem;
+}
+
+.job_description {
+    color: var(--color-light);
+    font-weight: 300;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin: 0.8rem auto 1rem;
+    text-align: left;
+    width: 90%;
 }
 
 .swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
