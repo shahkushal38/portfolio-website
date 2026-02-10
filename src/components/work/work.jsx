@@ -42,9 +42,6 @@ const Work = () => {
             <p className='job_duration'>June 2023 - Present</p>
             <p className='job_description'>Assisted in developing client projects and contributed to research initiatives. Gained hands-on experience with full-stack development practices and software architecture.</p>
             <ul className='client_review'>
-              <li>Worked on various client and research projects within the organization</li>
-              <li>Gained experience working in large software-based projects as a full-stack developer</li>
-              <li>Learned development standards and best practices for writing efficient code</li>
               <li>Developed coordination and collaboration skills with team members</li>
               <li><strong>Key Achievement:</strong> Maintained smooth functioning of software for 300,000+ users</li>
             </ul>
