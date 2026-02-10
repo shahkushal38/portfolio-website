@@ -37,9 +37,9 @@ const Work = () => {
             <img src={msci} alt="MSCI" />
           </div>
           <div>
-            <h5 className='client_name'>Wohlig Transformations</h5>
-            <p className='job_title'>Junior Full Stack Developer</p>
-            <p className='job_duration'>Jun 2018 - Dec 2018</p>
+            <h5 className='client_name'>Morgan Stanley Capital International (MSCI)</h5>
+            <p className='job_title'>Software Development Engineer</p>
+            <p className='job_duration'>June 2023 - Present</p>
             <p className='job_description'>Assisted in developing client projects and contributed to research initiatives. Gained hands-on experience with full-stack development practices and software architecture.</p>
             <ul className='client_review'>
               <li>Worked on various client and research projects within the organization</li>
