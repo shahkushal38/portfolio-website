@@ -28,7 +28,13 @@ const Work = () => {
               <li>Currently developing UI Components and Python-based backend services for the Custom Index 
                 Platform, enabling clients and internal research teams to define 100+ custom index 
                 methodologies, trigger automated backtesting workflows, and streamline new index creation.</li>
-              <li></li>
+              <li>Leveraging AI tools like Cursor IDE, Copilot and MCP Servers 
+                across daily software development life cycle.</li>
+              <li>Build and maintaining reusable React – Redux component libraries using 
+                FluentUI, AgGrid, and MSCI UX Framework. Additionally providing an efficient 
+                state management handlers to developers with an inbuilt API integration support using 
+                Tanstack Query, ensuring a consistent and intuitive user experience across 
+                <strong> 10+ Index applications</strong></li>
               <li><strong>Key Achievement:</strong> Maintained smooth functioning of software for 300,000+ users</li>
             </ul>
           </div>
