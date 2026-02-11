@@ -10,6 +10,30 @@ const Work = () => {
       <h2>My Work Experience</h2>
 
       <div className='container testimonials_container'>
+
+        <article className='testimonials'>
+          <div className='client_avatar'>
+            <img src={msci} alt="MSCI" />
+          </div>
+          <div>
+            <h5 className='client_name'>Morgan Stanley Capital International (MSCI)</h5>
+            <p className='job_title'>Software Development Engineer</p>
+            <p className='job_duration'>June 2023 - Present</p>
+            <p className='job_description'>
+              Joined MSCI’s Index Engineering team as an Analyst and was subsequently promoted to Associate, 
+              contributing to the design and development of scalable full-stack applications that accelerate 
+              index creation and support 80,000+ global MSCI indexes.
+            </p>
+            <ul className='client_review'>
+              <li>Currently developing UI Components and Python-based backend services for the Custom Index 
+                Platform, enabling clients and internal research teams to define 100+ custom index 
+                methodologies, trigger automated backtesting workflows, and streamline new index creation.</li>
+              <li></li>
+              <li><strong>Key Achievement:</strong> Maintained smooth functioning of software for 300,000+ users</li>
+            </ul>
+          </div>
+        </article>
+
         <article className='testimonials'>
           <div className='client_avatar'>
             <img src={exp1} alt="Wohlig Transformations" />
@@ -28,22 +52,6 @@ const Work = () => {
               <li>Acquired skills of writing efficient and optimized code while maintaining it in a collaborative environment. </li>
               <li>Engineered backend services using Node.js, Express.js, along with optimizing database operations in MongoDB and refining React.js UI components to improve user engagement and overall system performance by 25%.</li>
               <li><strong>Key Achievement:</strong> Successfully contributed to maintaining the application’s stability and performance amidst rapid growth, supporting a user base that exceeded 300,000 active users.</li>
-            </ul>
-          </div>
-        </article>
-
-        <article className='testimonials'>
-          <div className='client_avatar'>
-            <img src={msci} alt="MSCI" />
-          </div>
-          <div>
-            <h5 className='client_name'>Morgan Stanley Capital International (MSCI)</h5>
-            <p className='job_title'>Software Development Engineer</p>
-            <p className='job_duration'>June 2023 - Present</p>
-            <p className='job_description'>Assisted in developing client projects and contributed to research initiatives. Gained hands-on experience with full-stack development practices and software architecture.</p>
-            <ul className='client_review'>
-              <li>Developed coordination and collaboration skills with team members</li>
-              <li><strong>Key Achievement:</strong> Maintained smooth functioning of software for 300,000+ users</li>
             </ul>
           </div>
         </article>
