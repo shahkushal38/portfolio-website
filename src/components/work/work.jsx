@@ -35,7 +35,7 @@ const Work = () => {
                 state management handlers to developers with an inbuilt API integration support using 
                 Tanstack Query, ensuring a consistent and intuitive user experience across 
                 <strong> 10+ Index applications</strong></li>
-              <li><strong>Key Achievement:</strong> </li>
+              <li><strong>Key Achievement:</strong> Full Stack Development </li>
             </ul>
           </div>
         </article>
