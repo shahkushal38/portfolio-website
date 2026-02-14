@@ -10,6 +10,42 @@ const Work = () => {
       <h2>My Work Experience</h2>
 
       <div className='container testimonials_container'>
+
+        <article className='testimonials'>
+          <div className='client_avatar'>
+            <img src={msci} alt="MSCI" />
+          </div>
+          <div>
+            <h5 className='client_name'>Morgan Stanley Capital International (MSCI)</h5>
+            <p className='job_title'>Software Development Engineer</p>
+            <p className='job_duration'>June 2023 - Present</p>
+            <p className='job_description'>
+              Joined MSCI’s Index Engineering team as an Analyst and was subsequently promoted to Associate, 
+              contributing to the design and development of scalable full-stack applications that accelerate 
+              index creation and support 80,000+ global MSCI indexes.
+            </p>
+            <ul className='client_review'>
+              <li>Currently developing UI Components and Python-based backend services for the Custom Index 
+                Platform, enabling clients and internal research teams to define 100+ custom index 
+                methodologies, trigger automated backtesting workflows, and streamline new index creation.</li>
+              <li>Leveraging AI tools like Cursor IDE, Copilot and MCP Servers 
+                across daily software development life cycle.</li>
+              <li>Build and maintaining reusable React – Redux component libraries using 
+                FluentUI, AgGrid, and MSCI UX Framework. Additionally providing an efficient 
+                state management handlers to developers with an inbuilt API integration support using 
+                Tanstack Query, ensuring a consistent and intuitive user experience across 
+                <strong> 10+ Index applications</strong></li>
+              <li> Led end-to-end development of Index Transparency Tool, visualizing 1,000+ data points for 
+                each MSCI Index providing its rebalancing insights in 10+ dashboards built using Highcharts 
+                and React components for 100+ clients and stakeholders</li>
+              <li>Engineered and scheduled automated Python ETL Jobs on Linux environment to synchronize 
+                entitlement data from Salesforce and Oracle databases into Snowflake and creating Snowflake shares
+                comprising 20+ client-ready views for 30+ Index clients.</li>
+              <li><strong>Key Achievement:</strong> Full Stack Development </li>
+            </ul>
+          </div>
+        </article>
+
         <article className='testimonials'>
           <div className='client_avatar'>
             <img src={exp1} alt="Wohlig Transformations" />
@@ -28,25 +64,6 @@ const Work = () => {
               <li>Acquired skills of writing efficient and optimized code while maintaining it in a collaborative environment. </li>
               <li>Engineered backend services using Node.js, Express.js, along with optimizing database operations in MongoDB and refining React.js UI components to improve user engagement and overall system performance by 25%.</li>
               <li><strong>Key Achievement:</strong> Successfully contributed to maintaining the application’s stability and performance amidst rapid growth, supporting a user base that exceeded 300,000 active users.</li>
-            </ul>
-          </div>
-        </article>
-
-        <article className='testimonials'>
-          <div className='client_avatar'>
-            <img src={msci} alt="MSCI" />
-          </div>
-          <div>
-            <h5 className='client_name'>Wohlig Transformations</h5>
-            <p className='job_title'>Junior Full Stack Developer</p>
-            <p className='job_duration'>Jun 2018 - Dec 2018</p>
-            <p className='job_description'>Assisted in developing client projects and contributed to research initiatives. Gained hands-on experience with full-stack development practices and software architecture.</p>
-            <ul className='client_review'>
-              <li>Worked on various client and research projects within the organization</li>
-              <li>Gained experience working in large software-based projects as a full-stack developer</li>
-              <li>Learned development standards and best practices for writing efficient code</li>
-              <li>Developed coordination and collaboration skills with team members</li>
-              <li><strong>Key Achievement:</strong> Maintained smooth functioning of software for 300,000+ users</li>
             </ul>
           </div>
         </article>
