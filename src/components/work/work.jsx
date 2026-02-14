@@ -35,6 +35,12 @@ const Work = () => {
                 state management handlers to developers with an inbuilt API integration support using 
                 Tanstack Query, ensuring a consistent and intuitive user experience across 
                 <strong> 10+ Index applications</strong></li>
+              <li> Led end-to-end development of Index Transparency Tool, visualizing 1,000+ data points for 
+                each MSCI Index providing its rebalancing insights in 10+ dashboards built using Highcharts 
+                and React components for 100+ clients and stakeholders</li>
+              <li>Engineered and scheduled automated Python ETL Jobs on Linux environment to synchronize 
+                entitlement data from Salesforce and Oracle databases into Snowflake and creating Snowflake shares
+                comprising 20+ client-ready views for 30+ Index clients.</li>
               <li><strong>Key Achievement:</strong> Full Stack Development </li>
             </ul>
           </div>
