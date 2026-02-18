@@ -41,7 +41,6 @@ const Work = () => {
               <li>Engineered and scheduled automated Python ETL Jobs on Linux environment to synchronize 
                 entitlement data from Salesforce and Oracle databases into Snowflake and creating Snowflake shares
                 comprising 20+ client-ready views for 30+ Index clients.</li>
-              <li><strong>Key Achievement:</strong> Full Stack Development </li>
             </ul>
           </div>
         </article>
