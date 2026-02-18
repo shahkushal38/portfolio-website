@@ -63,7 +63,7 @@ const Work = () => {
                 software gaming application, directly influencing a user growth jump from 200K to 300K+ users.</li>
               <li>Acquired skills of writing efficient and optimized code while maintaining it in a collaborative environment. </li>
               <li>Engineered backend services using Node.js, Express.js, along with optimizing database operations in MongoDB and refining React.js UI components to improve user engagement and overall system performance by 25%.</li>
-              <li><strong>Key Achievement:</strong> Successfully contributed to maintaining the application’s stability and performance amidst rapid growth, supporting a user base that exceeded 300,000 active users.</li>
+              <li>Successfully contributed to maintaining the application’s stability and performance amidst rapid growth, supporting a user base that exceeded 300,000 active users.</li>
             </ul>
           </div>
         </article>
