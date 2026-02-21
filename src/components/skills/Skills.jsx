@@ -144,9 +144,6 @@ const Skills = () => {
             </article>
           </div>
         </div>
-
-
-
       </div>
 
     </section>
