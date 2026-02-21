@@ -22,6 +22,7 @@ const Projects = () => {
               </ul>
             </p>
           </div>
+
         </div>
 
         <div className='project_1'>
