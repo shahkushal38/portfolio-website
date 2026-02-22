@@ -22,9 +22,9 @@ const Projects = () => {
                 </li>
               </ul>
               <div className='project_button'>
-              <a href="https://github.com/shahkushal38/khabrichain" className='btn btn-primary'>Github Repository</a>
-              <a href="https://www.youtube.com/watch?v=oEM4TUQ87kw" className='btn btn-primary'> Project Demo - YouTube </a>
-              <a href="https://devfolio.co/projects/khabrichain-decentralized-reporting-system-7b59" className='btn btn-primary'> Devfolio </a>
+              <a href="https://github.com/shahkushal38/khabrichain" className='btn btn-primary' target="_blank">Github Repository</a>
+              <a href="https://www.youtube.com/watch?v=oEM4TUQ87kw" className='btn btn-primary' target="_blank"> Project Demo - YouTube </a>
+              <a href="https://devfolio.co/projects/khabrichain-decentralized-reporting-system-7b59" className='btn btn-primary' target="_blank"> Devfolio </a>
             </div>
             </p>
           </div>
@@ -48,8 +48,10 @@ const Projects = () => {
               </ul>
             </p>
             <div className='project_button'>
-              <a href="#contact" className='btn btn-primary'>Github Repository</a>
-              <a href="#contact" className='btn btn-primary'> Project Demo - YouTube </a>
+              <a href="https://github.com/shahkushal38/secure-patrons-frontend" className='btn btn-primary' target="_blank">Github - Frontend</a>
+              <a href="https://github.com/shahkushal38/secure-patrons-backend" className='btn btn-primary' target="_blank">Github - Backend</a>
+              <a href="https://www.youtube.com/watch?v=95f56iuBGOA" className='btn btn-primary' target="_blank"> Project Demo - YouTube </a>
+              <a href="https://devpost.com/software/kyc-verified-crowdfunding-solution-secure-patrons" className='btn btn-primary' target="_blank"> Devfolio </a>
             </div>
           </div>
         </div>
