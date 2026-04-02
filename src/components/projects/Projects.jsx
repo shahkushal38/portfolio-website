@@ -15,16 +15,16 @@ const Projects = () => {
             <p>
               <ul className='text-light' >
                 <li>
-                  
+                  An intelligent report generation system that seamlessly combines the power of LlamaIndex along with Open AI’s GPT-4o to create insights from structured as well as unstructured data.
                 </li>
                 <li>
                   
                 </li>
               </ul>
               <div className='project_button'>
-              <a href="https://github.com/shahkushal38/Aakar-frontend" className='btn btn-primary' target="_blank">Github - Frontend</a>
-              <a href="https://github.com/shahkushal38/Aakar-backend" className='btn btn-primary' target="_blank">Github - Backend</a>
-              <a href="https://www.youtube.com/watch?v=wBfT_-DNwM0" className='btn btn-primary' target="_blank"> Project Demo - YouTube </a>
+              <a href="https://github.com/shahkushal38/Aakar-frontend" className='btn btn-primary' target="_blank" rel="noreferrer">Github - Frontend</a>
+              <a href="https://github.com/shahkushal38/Aakar-backend" className='btn btn-primary' target="_blank" rel="noreferrer">Github - Backend</a>
+              <a href="https://www.youtube.com/watch?v=wBfT_-DNwM0" className='btn btn-primary' target="_blank" rel="noreferrer"> Project Demo - YouTube </a>
               
             </div>
             </p>
@@ -48,9 +48,9 @@ const Projects = () => {
                 </li>
               </ul>
               <div className='project_button'>
-              <a href="https://github.com/shahkushal38/khabrichain" className='btn btn-primary' target="_blank">Github Repository</a>
-              <a href="https://www.youtube.com/watch?v=oEM4TUQ87kw" className='btn btn-primary' target="_blank"> Project Demo - YouTube </a>
-              <a href="https://devfolio.co/projects/khabrichain-decentralized-reporting-system-7b59" className='btn btn-primary' target="_blank"> Devfolio </a>
+              <a href="https://github.com/shahkushal38/khabrichain" className='btn btn-primary' target="_blank" rel="noreferrer">Github Repository</a>
+              <a href="https://www.youtube.com/watch?v=oEM4TUQ87kw" className='btn btn-primary' target="_blank" rel="noreferrer"> Project Demo - YouTube </a>
+              <a href="https://devfolio.co/projects/khabrichain-decentralized-reporting-system-7b59" className='btn btn-primary' target="_blank" rel="noreferrer"> Devfolio </a>
             </div>
             </p>
           </div>
@@ -74,10 +74,10 @@ const Projects = () => {
               </ul>
             </p>
             <div className='project_button'>
-              <a href="https://github.com/shahkushal38/secure-patrons-frontend" className='btn btn-primary' target="_blank">Github - Frontend</a>
-              <a href="https://github.com/shahkushal38/secure-patrons-backend" className='btn btn-primary' target="_blank">Github - Backend</a>
-              <a href="https://www.youtube.com/watch?v=95f56iuBGOA" className='btn btn-primary' target="_blank"> Project Demo - YouTube </a>
-              <a href="https://devpost.com/software/kyc-verified-crowdfunding-solution-secure-patrons" className='btn btn-primary' target="_blank"> Devfolio </a>
+              <a href="https://github.com/shahkushal38/secure-patrons-frontend" className='btn btn-primary' target="_blank" rel="noreferrer">Github - Frontend</a>
+              <a href="https://github.com/shahkushal38/secure-patrons-backend" className='btn btn-primary' target="_blank" rel="noreferrer">Github - Backend</a>
+              <a href="https://www.youtube.com/watch?v=95f56iuBGOA" className='btn btn-primary' target="_blank" rel="noreferrer"> Project Demo - YouTube </a>
+              <a href="https://devpost.com/software/kyc-verified-crowdfunding-solution-secure-patrons" className='btn btn-primary' target="_blank" rel="noreferrer"> Devfolio </a>
             </div>
           </div>
         </div>
