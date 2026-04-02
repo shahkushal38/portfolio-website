@@ -8,6 +8,32 @@ const Projects = () => {
 
       <div className='container project_container'>
         <div className='project_2'>
+          <h3 className='project_title'> <b>AAKAR AI - Shapping Data into Insights </b></h3>
+          <div className='project_content'>
+            <p className='project_tech'><b>Frontend: </b> React.js, FluentUI, JavaScript, HTML, CSS, Bootstrap | <b>Back-End:</b> Python, Flask <b>Machine Learning: </b> Tensorflow, Scikit-learn, Llama Index, Llama Workflows, RAG Pipeline</p>
+            <hr></hr>
+            <p>
+              <ul className='text-light' >
+                <li>
+                  
+                </li>
+                <li>
+                  
+                </li>
+              </ul>
+              <div className='project_button'>
+              <a href="https://github.com/shahkushal38/Aakar-frontend" className='btn btn-primary' target="_blank">Github - Frontend</a>
+              <a href="https://github.com/shahkushal38/Aakar-backend" className='btn btn-primary' target="_blank">Github - Backend</a>
+              <a href="https://www.youtube.com/watch?v=wBfT_-DNwM0" className='btn btn-primary' target="_blank"> Project Demo - YouTube </a>
+              
+            </div>
+            </p>
+          </div>
+
+        </div>
+
+
+        <div className='project_2'>
           <h3 className='project_title'> <b>KhabriChain - Decentralized reporting system </b></h3>
           <div className='project_content'>
             <p className='project_tech'><b>Blockchain:</b> Ethereum, Solidity | <b>Front-End: </b> ReactJs, JavaScript, HTML, CSS, Bootstrap | <b>Back-End:</b> Python, Flask </p>
